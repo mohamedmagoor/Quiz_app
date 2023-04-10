@@ -1,0 +1,74 @@
+[
+    {
+        "tittle": "The internet can classified as a gaint ?",
+        "answer_1": "LAN",
+        "answer_2": "WAN",
+        "answer_3": "Server",
+        "answer_4": "Client",
+        "right_answer": "WAn"
+        
+    },
+    {
+        "tittle": "A gateway machine and maybe software and hardware ?",
+        "answer_1": "Firewall",
+        "answer_2": "Server",
+        "answer_3": "Repeater",
+        "answer_4": "Switch",
+        "right_answer": "Firewall"
+        
+    },
+    {
+        "tittle": "A device that converts digital signal to analog  ?",
+        "answer_1": "Router",
+        "answer_2": "Splitter",
+        "answer_3": "Server",
+        "answer_4": "Modem",
+        "right_answer": "Modem"
+        
+    },
+    {
+        "tittle": "1000Base is called ?",
+        "answer_1": "UTP",
+        "answer_2": "Giga Ethernet",
+        "answer_3": "Coax",
+        "answer_4": "Star topology",
+        "right_answer": "Giga Ethernet"
+        
+    },
+    {
+        "tittle": "An address made up of four one-byte numeric values ?",
+        "answer_1": "Hostname",
+        "answer_2": "IP address",
+        "answer_3": "MVC",
+        "answer_4": "MAC address",
+        "right_answer": "IP address"
+        
+    },
+    {
+        "tittle": "The minimum number of network is ?",
+        "answer_1": "Two",
+        "answer_2": "One",
+        "answer_3": "Three",
+        "answer_4": "Four",
+        "right_answer": "Two"
+        
+    },
+    {
+        "tittle": "The devive that separate the voice and data signal ?",
+        "answer_1": "Splitter",
+        "answer_2": "Comuters",
+        "answer_3": "Modems",
+        "answer_4": "LAN",
+        "right_answer": "Splitter"
+        
+    },
+    {
+        "tittle": "Commonly used in Token Ring Networks ? ",
+        "answer_1": "LAN",
+        "answer_2": "WAN",
+        "answer_3": "Server",
+        "answer_4": "STP",
+        "right_answer": "STP"
+        
+    }
+]
